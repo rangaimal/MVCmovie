@@ -32,6 +32,9 @@
         <th>
             @Html.DisplayNameFor(model => model.Price)
         </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Rating)
+        </th>
         <th></th>
     </tr>
 
@@ -53,6 +56,9 @@
             @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
             @Html.ActionLink("Details", "Details", new { id=item.ID }) |
             @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Rating)
         </td>
     </tr>
 }

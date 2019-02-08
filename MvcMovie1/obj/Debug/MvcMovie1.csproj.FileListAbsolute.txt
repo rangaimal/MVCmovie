@@ -80,3 +80,5 @@ c:\users\acer\documents\visual studio 2015\Projects\MvcMovie1\MvcMovie1\bin\Micr
 c:\users\acer\documents\visual studio 2015\Projects\MvcMovie1\MvcMovie1\obj\Debug\MvcMovie1.dll
 c:\users\acer\documents\visual studio 2015\Projects\MvcMovie1\MvcMovie1\obj\Debug\MvcMovie1.pdb
 C:\Users\acer\Documents\Visual Studio 2015\Projects\MvcMovie1\MvcMovie1\obj\Debug\MvcMovie1.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\MvcMovie1\MvcMovie1\obj\Debug\MvcMovie1.Migrations.Initial.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\MvcMovie1\MvcMovie1\obj\Debug\MvcMovie1.csproj.GenerateResource.Cache
